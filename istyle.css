@@ -1,0 +1,24 @@
+* {
+    font-family: Lora;
+    
+    
+}
+
+    .brd {
+        border: 8px;
+        border-style: solid;
+        border-width: 8px;
+        border-color:lightsalmon;
+        padding: 10px;
+        margin: 70px;
+        font-size: 20px;
+        background-color:lavenderblush;
+        color:rgb(216, 19, 78);
+
+    }
+    h1, h2 {
+        text-align: center;
+    }
+    li {
+        margin-left: 25px;
+    }
